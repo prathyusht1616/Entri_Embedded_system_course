@@ -1,4 +1,5 @@
-//test for git commit and edit
+//duplicate branch edit testing
+
 #include <stdio.h>
 
 int main() {
