@@ -3,5 +3,6 @@
 
 int main() {
     printf("Hello, World!\n");
+    printf("This program is written in C23 standard version.\n");
     return 0;
 }
