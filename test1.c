@@ -1,5 +1,3 @@
-//PRATHYUSH JUST TESTING GIT
-//issue raised tested and solved
 //Write a program to print "Hello, World!" in C23 standard version
 #include <stdio.h>
 
